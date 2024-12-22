@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+nav {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+input {
+  width: 150px;
+}
+button {
+  width: 90px;
+}
